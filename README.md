@@ -14,8 +14,7 @@
   <img align="center" alt="Ro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br />
   <br />
-  <img align="center" alt="Ro-"
-  <img align="right" alt="Ro-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Ro-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
