@@ -1,5 +1,5 @@
 <h1 align="center">Olá</h1>
-<h3 align="center">Bem vindo ao meu perfil do GitHub!</h3>
+<h3 align="center">Bem vindo ao meu perfil!</h3>
 
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
