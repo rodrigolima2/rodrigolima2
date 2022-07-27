@@ -1,6 +1,6 @@
 
 ## Desenvolvedor full-stack
-- 💬 Gosto de jogos e de pizza
+- 💬 Gosto de jogos e pizza
 - 🔭 Expandindo portifólio com novos projetos
 - 🌱 Conhecendo novas bibliotécas e frameworks
 </br>
