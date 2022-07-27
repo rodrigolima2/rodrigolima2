@@ -1,5 +1,10 @@
 
 ## Desenvolvedor full-stack
+- 💬 Gosto de jogos e de pizza
+- 🔭 Expandindo portifólio com novos projetos
+- 🌱 Conhecendo novas bibliotécas e frameworks
+</br>
+
 <div align="left">
   <a href="https://github.com/rodrigolima2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolima2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
